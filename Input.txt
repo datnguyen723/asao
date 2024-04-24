@@ -1,0 +1,27 @@
+Start : B
+Finish : L
+
+A 5
+B 15
+C 4
+D 3
+E 10
+F 14
+G 6
+H 8
+L 0
+
+A C 6
+B A 10
+B F 9
+B G 7
+B H 13
+C D 9
+C L 4
+D L 6
+E D 5
+F E 7
+G E 8
+G H 4
+H D 4
+H C 5 
